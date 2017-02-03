@@ -1,0 +1,10 @@
+{
+  "development": {
+    "username": "hrsq",
+    "password": "!qazxsw2",
+    "database": "hrsq",
+    "host": "rdswq42ek6d4cl1sena2c.mysql.rds.aliyuncs.com",
+    "dialect": "mysql",
+    "port": "3306"
+  }
+}
